@@ -1,2 +1,2 @@
-# waxplum
-wax-plum: Web Assembly X-Plane Plugin 
+# waxplm - Web Assembly for XPLM SDK
+pronounced as wax-plum
